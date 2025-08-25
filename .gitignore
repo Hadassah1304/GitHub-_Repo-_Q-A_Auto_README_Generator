@@ -1,0 +1,7 @@
+.venv
+.env
+chroma_db
+lst
+notebooks
+0.2.27
+__pycache__
