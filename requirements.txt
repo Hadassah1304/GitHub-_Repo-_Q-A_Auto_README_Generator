@@ -1,0 +1,10 @@
+requests
+python-dotenv
+chromadb
+langchain
+langchain-openai
+langchain-core
+sentence-transformers
+transformers
+torch
+fpdf
